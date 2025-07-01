@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
 
-import '../home.dart';
+import 'home.dart';
 import 'insta.dart';
-import '../menu.dart';
+import 'menu.dart';
 import 'ecom.dart';
 import 'prodes.dart';
 import 'playlist.dart';
